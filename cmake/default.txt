@@ -1,18 +1,1 @@
 #SHARP_FILE_INFO#
-
-cmake_minimum_required(VERSION 3.0)
-
-# project settings
-project(#PROJECT_NAME#)
-
-set(VERSION_MAJOR "1")
-set(VERSION_MINOR "0")
-set(VERSION_PATCH "0")
-set(VERSION "${VERSION_MAJOR}.${VERSION_MINOR}.${VERSION_PATCH}")
-
-# environment settings
-add_definitions(-DUNICODE)
-add_definitions(-D_UNICODE)
-
-# subdir settings
-add_subdirectory(#SOURCE_NAME#)

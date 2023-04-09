@@ -1,0 +1,21 @@
+#SHARP_FILE_INFO#
+
+include_directories(
+  # TODO: ..
+)
+
+link_directories(
+  # TODO: ..
+)
+
+file(GLOB SOURCES
+  # TODO: ..
+)
+
+add_executable(${PROJECT_NAME} ${SOURCES})
+
+set_property(TARGET ${PROJECT_NAME} PROPERTY CXX_STANDARD 17)
+
+target_link_libraries(${PROJECT_NAME}
+  # TODO: ..
+)
