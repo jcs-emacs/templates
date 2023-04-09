@@ -3,6 +3,8 @@
 cmake_minimum_required(VERSION 3.0)
 
 # project settings
+project(#PROJECT_NAME#)
+
 set(VERSION_MAJOR "1")
 set(VERSION_MINOR "0")
 set(VERSION_PATCH "0")
@@ -13,4 +15,4 @@ add_definitions(-DUNICODE)
 add_definitions(-D_UNICODE)
 
 # subdir settings
-add_subdirectory(libssrc)
+add_subdirectory(#SOURCE_NAME#)
