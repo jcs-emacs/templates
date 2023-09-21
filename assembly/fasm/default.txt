@@ -1,0 +1,11 @@
+#D_SEMICOLON_FILE_INFO#
+
+
+format ELF64 executable 3
+
+entry main
+
+main:
+    exit
+
+segment readable writable
