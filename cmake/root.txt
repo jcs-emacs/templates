@@ -1,4 +1,4 @@
-#SHARP_FILE_INFO#
+#SHARP_HEADER#
 
 cmake_minimum_required(VERSION 3.0)
 

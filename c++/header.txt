@@ -1,5 +1,5 @@
 #ifndef __#U_FILE_NAME_NO_EXT#_H__
-#C_HEADER#
+#C_STYLE_HEADER#
 #define __#U_FILE_NAME_NO_EXT#_H__
 
 /**

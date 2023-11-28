@@ -1,4 +1,4 @@
-#SHARP_FILE_INFO#
+#SHARP_HEADER#
 
 ### Library Makefile Template (CC) ###
 

@@ -1,4 +1,4 @@
-#C_HEADER#
+#C_STYLE_HEADER#
 const { ccclass, property, requireComponent } = cc._decorator;
 
 @ccclass

@@ -1,4 +1,4 @@
-#SHARP_FILE_INFO#
+#SHARP_HEADER#
 
 include_directories(
   # TODO: ..

@@ -1,4 +1,4 @@
-#C_HEADER#
+#C_STYLE_HEADER#
 
 #include "#FILE_NAME_NO_EXT#.h"
 

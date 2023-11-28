@@ -1,4 +1,4 @@
-#SHARP_FILE_INFO#
+#SHARP_HEADER#
 
 class #FILE_NAME_NO_EXT#(object):
     """TODO: Class Description here...

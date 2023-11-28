@@ -4,5 +4,5 @@
 %% $Revision: $
 %% $Creator: #CREATOR_NAME# $
 %% $Notice: See LICENSE.txt for modification and distribution information $
-%%                   Copyright © #TIME_YEAR# by #COPYRIGHT_INFO# $
+%%                   Copyright ï¿½ #TIME_YEAR# by #COPYRIGHT_INFO# $
 %% ========================================================================
