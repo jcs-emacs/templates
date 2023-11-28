@@ -1,4 +1,4 @@
-#GLOBAL_FILE_INFO#
+#C_HEADER#
 
 
 public class #FILE_NAME_NO_EXT# {
