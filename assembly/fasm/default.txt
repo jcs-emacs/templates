@@ -1,6 +1,5 @@
 #D_SEMICOLON_HEADER#
 
-
 format ELF64 executable 3
 
 entry main

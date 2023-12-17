@@ -2,10 +2,9 @@
 
 ;; Input Functions (extern)
 
-;; `data' is for initialized variables, and it counts
-;; for RAM and FLASH. The linker allocates the data
-;;  in FLASH which then is copied from ROM to RAM in
-;;  the startup code.
+;; `data' is for initialized variables, and it counts for RAM and FLASH.
+;; The linker allocates the data in FLASH which then is copied from ROM to
+;; RAM in the startup code.
 .data
 
 
