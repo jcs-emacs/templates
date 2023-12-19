@@ -1,3 +1,4 @@
+;; -*- mode: nasm; lexical-binding: t -*-
 #D_SEMICOLON_HEADER#
 
 ;; Input Functions (extern)

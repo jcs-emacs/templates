@@ -1,3 +1,4 @@
+;; -*- mode: masm; lexical-binding: t -*-
 #D_SEMICOLON_HEADER#
 
 ;; Input Functions (extern)
