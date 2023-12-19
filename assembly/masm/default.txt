@@ -8,7 +8,6 @@
 ;; RAM in the startup code.
 .data
 
-
 ;; `text' is my code, vector table plus constants.
 .code
 main proc
