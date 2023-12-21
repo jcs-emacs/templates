@@ -4,18 +4,18 @@
 ;; Input Functions (extern)
 
 ;;; Output Functions (global)
-global _start
+.global _start
 
 ;; `bss' is for the uninitialized data in RAM which is initialized with zero
 ;; in the startup code.
-[SECTION .bss]
+.bss
 
 ;; `data' is for initialized variables, and it counts for RAM and FLASH.
 ;; The linker allocates the data in FLASH which then is copied from ROM to
 ;; RAM in the startup code.
-[SECTION .data]
+.data
 
 ;; `text' is my code, vector table plus constants.
-[SECTION .text]
+.text
 _start:
     hlt
