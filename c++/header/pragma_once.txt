@@ -1,6 +1,5 @@
-#ifndef __#U_FILE_NAME_NO_EXT#_H__
 #C_STYLE_HEADER#
-#define __#U_FILE_NAME_NO_EXT#_H__
+#pragma once
 
 /**
  * @class #FILE_NAME_NO_EXT#
@@ -9,18 +8,14 @@
 class #FILE_NAME_NO_EXT#
 {
 private:
+    /* Variables */
 
 public:
     #FILE_NAME_NO_EXT#();
     ~#FILE_NAME_NO_EXT#();
 
+    /* Operators */
 
-    /* operator */
-
-    /* setter */
-
-    /* getter */
+    /* Setter & Getter */
 
 };
-
-#endif /* __#U_FILE_NAME_NO_EXT#_H__ */
