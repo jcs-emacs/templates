@@ -9,7 +9,7 @@
 
 # templates
 
-Personal file-header templates
+Personal `file-header` templates
 
 ## 💾 Installation
 
